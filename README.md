@@ -21,7 +21,7 @@ Badda-boom, badda-bang. You can use this ID inside of an ImageLabel if you so pl
 > Accepts an Instance or string with the specified ClassName as its one argument.  
 Returns: string
 ## GetClass ( string AssetId )
-> Returns the ClassName of a specified assetId (must be one of the images). Elsewise, returns "Unknown".  
+> Returns the ClassName of a specified AssetId (must be one of the images). Elsewise, returns "Unknown".  
 Returns: string
 
 ***
