@@ -26,5 +26,5 @@ Returns: string
 
 ***
 
-Right now, I cannot guarantee that every icon is included. This is only the beginning of this project and everything is subject to change.  
+Right now, I cannot guarantee that every icon is included. This is only the beginning of this project and anything is subject to change.  
 You can find the module [here](https://www.roblox.com/library/2673116933/Roblox-Icon-Module). Feel free to use any assets you like!
