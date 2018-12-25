@@ -14,7 +14,7 @@ rbxassetid://2672148178
 ```
 Badda-boom, badda-bang. You can use this ID inside of an ImageLabel if you so please.
 ![kaboom](https://i.imgur.com/sAfAEzo.png)
-
+*(All icons can be scaled up to 420x420 pixels before losing quality.)*
 ***
 
 # Usage
